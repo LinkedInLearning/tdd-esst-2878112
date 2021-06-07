@@ -19,4 +19,4 @@ Hendrik Lösch
 
 Software Architekt
 
-Sehen Sie sich andere Kurse des Autors auf LinkedIn Learning (https://www.linkedin.com/learning/instructors/hendrik-losch?u=104) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/hendrik-losch?u=104) an.
