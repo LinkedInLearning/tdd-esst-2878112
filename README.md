@@ -1,5 +1,5 @@
 # Test Driven Development (TDD) - Grundlagen
-Dies ist das Repository für den **LinkedIn Learning** Kurs [Test Driven Development (TDD) - Grundlagen]. Den gesamten Kurs finden Sie auf LinkedIn Learning.
+Dies ist das Repository für den **LinkedIn Learning** Kurs Test Driven Development (TDD) - Grundlagen. Den gesamten Kurs finden Sie auf LinkedIn Learning.
 
 [COURSEDESCRIPTION]
 
