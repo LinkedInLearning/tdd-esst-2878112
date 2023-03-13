@@ -1,6 +1,8 @@
 # Test Driven Development (TDD) – Grundlagen
 Dies ist das Repository für den **LinkedIn Learning** Kurs Test Driven Development (TDD) – Grundlagen. Den gesamten Kurs finden Sie auf [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-tdd-grundlagen).
 
+![COURSENAME][lil-thumbnail-url] 
+
 Testgetriebene Softwareentwicklung (engl. Test Driven Development, kurz TDD) hat  das Ziel,qualitativ hochwertige Software zu erstellen. Hierzu wird vorab ein automatisierter Test formuliert und erst anschließend die geforderte Funktionalität implementiert. Doch nicht immer erschließt sich dieser leicht klingende Ansatz. In diesem Videotraining führt Sie der erfahrene Consultant Hendrik Lösch ausführlich in die Methodik von TDD ein und räumt auch mit möglichen Missverständnissen auf. Sie beginnen mit den einfachen Grundlagen wie den Red-Green-Refactor Cycle und den die goldenen Regeln des TDD. Darüber hinaus erfahren Sie alles Wichtige rund um Testpyramide, Unit-Testing oder auch dem F.I.R.S.T-Prinzip. Im Weiteren lernen Sie die unterschiedlichen Ausprägungen wie Inside-Out und Outside-In TDD auf Basis eines Komplexbeispiels kennen, und zeitgleich wird Ihr Verständnis von automatisierten Tests komplett auf den Kopf gestellt.
 
 ## Anleitung
@@ -20,4 +22,4 @@ _Software Architekt_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/hendrik-losch?u=104) an.
 
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQHoOQBnxMONKg/learning-public-crop_675_1200/0/1624268716452?e=1624726800&v=beta&t=RVXDspc7vBpaez4eNPmFYDRJ8k4N0qH-ub_Jk-X58xY
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2878112/2878112-1624268684440-16x9.jpg
